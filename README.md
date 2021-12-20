@@ -3,6 +3,7 @@
 ### Available Skills 😄
 #### Languages
 <div>
+<img src = "https://img.shields.io/badge/C#-000000?style=flat-square&logo=Rust"/>    
 <img src = "https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust"/>  
 <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
